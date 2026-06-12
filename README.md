@@ -1,4 +1,4 @@
-# Hi there! I’m Geetha 👋
+# Hi there! I’m Geetha 
 
 Welcome to my GitHub profile!  
 I’m a **DevOps Engineer aspirant** with a strong interest in building reliable, automated systems. I have hands-on experience working with **CI/CD pipelines, cloud platforms, containers, and infrastructure automation**, and I’m continuously learning and improving through real-world projects.
